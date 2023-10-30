@@ -1,0 +1,50 @@
+EXP1
+first create repo on github
+after create an folder on desk and add txt file in that fold
+open gitbash
+commands
+git init
+git config user.name ""user name
+git config user.email "user email"
+git status
+git add 'file name'
+git status
+git commit -m "siddhu"
+git remote add origin url
+git push -u origin master
+
+
+EXP2
+first create folder andadd 2 txt files in that
+then open git bash
+commands
+git init
+git add .
+git commit -m "siddhu"
+git log
+git status
+then cfreate repo on git hub
+//command
+git remote add orgin url
+git push -u origin master
+git branch
+git branch login-system
+git branch
+git checkout login-system
+git branch
+we add another txt file in folder & edit all txt files 
+git status
+git add .
+git commit -m "added"
+git push origin login-system
+
+
+exp 3
+as it is exp1
+modified in created text file
+git status
+git add
+git push -u origin master
+then change file from github
+git log
+git pull origin master
